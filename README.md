@@ -26,3 +26,4 @@ Scholarship variable is related to this [concept](https://en.wikipedia.org/wiki/
 
 ## Inspiration
 What if that possible to predict someone to no-show an appointment?
+[Link to kaggle](https://www.kaggle.com/joniarroba/noshowappointments). Note: the dataset contained in this repository (the one you must use) differs from the original kaggle dataset.
