@@ -20,7 +20,7 @@ Scholarship variable is related to this [concept](https://en.wikipedia.org/wiki/
 - 08 - Scholarship: True of False . Observation, this is a broad topic, consider reading this article https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia
 - 09 - Hipertension.
 - 10 - Diabetes.
-- 11 - Alcoholism.
+- 11 - Alcoholism: according to alcohol consumption.
 - 12 - SMS_received: 1 or more messages sent to the patient.
 - 13 - No-show: True or False.
 
